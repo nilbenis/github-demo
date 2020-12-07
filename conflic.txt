@@ -1,4 +1,4 @@
 1. This is a conflict test
-2. 2
-3.3
-4.4
+2. 
+3.
+4.
