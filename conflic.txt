@@ -1,1 +1,4 @@
 1. This is a conflict test
+2. Add this line on testing branch
+3. 
+4.
